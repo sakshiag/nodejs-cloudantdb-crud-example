@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"description": "Nodejs app using CloudantDB",
 	"scripts": {
-		"start": "node app.js"
+		"start": "node --harmony app.js"
 	},
 	"dependencies": {
 		"express": "4.12.x",
